@@ -1,0 +1,19 @@
+/* Container {} */
+
+.bg-presWarning{
+    background-color: #ed1c24;
+}
+
+.bg-inMotion {
+    background-color: #8cc63f;
+}
+
+.bg-stationary {
+    background-color: #e7e7e7;
+    border: solid #b3b3b3;
+    margin: 0;
+}
+
+.bg-inPrep {
+    background-color: #c7b299;
+}
